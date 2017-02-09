@@ -7,4 +7,4 @@ layout: default
 * * *
 © Michael Farden, 2017
 
-[back](./)
+[back](../)
