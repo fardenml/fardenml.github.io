@@ -7,4 +7,4 @@ layout: default
 * * *
 © Michael Farden, 2017
 
-[back](./fardenml.github.io)
+[back](../fardenml.github.io)
