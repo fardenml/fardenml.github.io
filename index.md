@@ -19,7 +19,7 @@ return 0;
 
 [Skills & Interests](../pages/Skills & Interests)
 
-[Links]("../pages/Links")
+[Links](../pages/Links)
 
 ```
 © Michael Farden, 2017
