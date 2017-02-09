@@ -13,13 +13,13 @@ return 0;
 
 * * *
 
-[Bio](another-page)
+[Bio](../_pages/Bio)
 
-[Projects](another-page)
+[Projects](../_pages/Projects)
 
-[Skills & Interests](another-page)
+[Skills & Interests](../_pages/Skills & Interests)
 
-[Links](another-page)
+[Links](../_pages/Links)
 
 ```
 © Michael Farden, 2017
