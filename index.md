@@ -4,9 +4,9 @@ layout: default
 
 # [](#header-1)Welcome!
 ```c++
-// C++ main function
+// C++ 
 int main () {
-std::cout << "Hello World! Welcome to my website.\n";
+std::cout << "Hello World! Welcome to my website." << std::endl;
 return 0;
 }
 ```
