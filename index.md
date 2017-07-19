@@ -22,5 +22,5 @@ return 0;
 [Links](../pages/Links) --->
 
 ```
-© Michael Farden, 2017
+Michael Farden, 2017
 ```
