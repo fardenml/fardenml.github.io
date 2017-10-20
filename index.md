@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# [](#header-1)Welcome!
+# Welcome!
 
 * * *
 
-# Bio
+## Bio
 
 My name is Michael Farden and I am currently a senior computer engineering student at Clarkson University. 
 
