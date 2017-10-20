@@ -8,11 +8,11 @@ layout: default
 
 <!--- [Bio](../pages/Bio)
 
-<!--- [Projects](../pages/Projects)
+[Projects](../pages/Projects)
 
-<!--- [Skills & Interests](../pages/Skills & Interests)
+[Skills & Interests](../pages/Skills & Interests)
 
-<!--- [Links](../pages/Links) 
+[Links](../pages/Links) --->
 
 ```
 Michael Farden, 2017
