@@ -168,7 +168,14 @@ a {
     max-width: 100%;
   }
 
-  h1,
+  h1 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+    text-align: center;   
+  }
+  
   h2,
   h3,
   h4,
@@ -178,7 +185,7 @@ a {
     margin-bottom: 1rem;
     font-weight: normal;
     color: $section-headings-color;
-    text-align: center;
+    text-align: left;
   }
 
   p {
