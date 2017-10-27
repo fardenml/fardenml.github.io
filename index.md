@@ -18,6 +18,8 @@ My name is Michael Farden. I am currently a senior computer engineering student 
 
 [Links](../pages/Links) --->
 
+* * *
+
 ```
 Michael Farden, 2017
 ```
