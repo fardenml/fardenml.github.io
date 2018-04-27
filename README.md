@@ -3,4 +3,4 @@ My Personal Website
 
 Bootstrap template used: https://startbootstrap.com/template-overviews/stylish-portfolio/
 
-Header photo by rawpixel.com, downloaded from unsplash.com.
+Header photo by rawpixel.com, downloaded from unsplash: https://unsplash.com/photos/VlpVGXrqrPk
