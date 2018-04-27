@@ -119,9 +119,8 @@ h6 {
   margin: auto 2rem 2rem;
 }
 
-.portfolio-item .caption .caption-content h2 {
-  font-size: 0.8rem;
-  text-transform: uppercase;
+.portfolio-item .caption .caption-content h3 {
+  font-size: 2.5rem;
 }
 
 .portfolio-item .caption .caption-content p {
@@ -203,17 +202,6 @@ a:hover, a:focus, a:active {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background-color: #155d74 !important;
   border-color: #155d74 !important;
-}
-
-.btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
-  color: #fff !important;
-}
-
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
 }
 
 .btn-dark {
